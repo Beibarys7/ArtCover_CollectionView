@@ -14,6 +14,7 @@
 		5458EF5225FE71F700ABA554 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5458EF5025FE71F700ABA554 /* LaunchScreen.storyboard */; };
 		5458EF5A25FE727C00ABA554 /* PreviewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5458EF5925FE727C00ABA554 /* PreviewController.swift */; };
 		5458EF5C25FE72A000ABA554 /* ArtCover.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5458EF5B25FE72A000ABA554 /* ArtCover.swift */; };
+		54777C91263C039B00AC48B4 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 54777C90263C039B00AC48B4 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		5458EF5325FE71F700ABA554 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5458EF5925FE727C00ABA554 /* PreviewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewController.swift; sourceTree = "<group>"; };
 		5458EF5B25FE72A000ABA554 /* ArtCover.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtCover.swift; sourceTree = "<group>"; };
+		54777C90263C039B00AC48B4 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		5458EF4425FE71F600ABA554 /* ArtCover_CollectionView */ = {
 			isa = PBXGroup;
 			children = (
+				54777C90263C039B00AC48B4 /* .gitignore */,
 				5458EF4525FE71F600ABA554 /* AppDelegate.swift */,
 				5458EF4725FE71F600ABA554 /* SceneDelegate.swift */,
 				5458EF5925FE727C00ABA554 /* PreviewController.swift */,
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				54777C91263C039B00AC48B4 /* .gitignore in Resources */,
 				5458EF5225FE71F700ABA554 /* LaunchScreen.storyboard in Resources */,
 				5458EF4F25FE71F700ABA554 /* Assets.xcassets in Resources */,
 				5458EF4D25FE71F600ABA554 /* Main.storyboard in Resources */,
